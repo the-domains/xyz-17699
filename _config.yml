@@ -1,0 +1,53 @@
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.7988362377509475
+  lightness: 0.8765656605828553
+  saturation: 0.5315912058576941
+  rhythmicContrast: 0.7312015614006668
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: XYZ
+layout_spectrum: 0.17304839403368533
+typography_spectrum: 0.01989830005913973
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/426df989-8bb4-4a9e-b507-04e1a245bca1.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/426df989-8bb4-4a9e-b507-04e1a245bca1.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: SAGE
+description: '"Solution to real people problems."'
+github: true
+author:
+  name: Dayna R. Hurtado
+  email: DRH.XYZINTEREST@technologist.com
+  url: 'https://github.com/DAYNAxyz'
